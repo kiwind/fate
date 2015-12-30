@@ -1,2 +1,2 @@
-# asura.js
+# fate.js
 a js framework
