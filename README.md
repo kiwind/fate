@@ -1,2 +1,2 @@
-# asurajs
+# asura.js
 a js framework
