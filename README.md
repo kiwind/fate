@@ -1,2 +1,2 @@
-# fate.js
-a js framework
+# fate
+An Vue.js 2.0 UI Toolkit for Web
